@@ -1,0 +1,41 @@
+.allthink{
+    color: #151414;  
+}
+.paragraph{
+    color: #444343;
+}
+.button{
+    color: orangered;
+}
+.class-class{
+   text-align: right;  
+}
+.header{
+    background-image: url(../images/banner/banner1.png);
+    width: 1600px;
+    height: 808px;
+}
+ /* banner section */
+.banner{
+    margin: 20px 200px;
+    display: flex;
+    align-items: center;
+}
+.banner-tittle{
+    font-weight: 700;
+    font-size: 40px;
+    width: 288px;
+    height: 94px;
+    margin: 50px;
+}
+.banner-discription{
+    font-weight: 400;
+    font-size: 16px; 
+  
+    margin: 50px;
+}
+.banner-list{
+    width: 349px;
+    height: 162px;
+    margin: 50px;
+}
